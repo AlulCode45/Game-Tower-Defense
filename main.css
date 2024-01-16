@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+body {
+    background-color: black;
+}
+
 canvas {
     background: url('assets/background.jpeg');
     background-size: 100% 100%;
